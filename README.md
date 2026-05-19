@@ -30,7 +30,7 @@
 
 I am Nguyễn Văn Quyền, born in 2004. I am passionate about technology, especially in software development and backend system development. I enjoy learning, exploring new knowledge, and building useful projects for the community.
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/quyen1303/quyen1303/output/pacman-contribution-graph.svg" width="600">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/quyen1303/quyen1303/main/dist/grid-snake.svg" width="600">
 
   </div>
 </div>
