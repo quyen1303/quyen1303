@@ -16,7 +16,7 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
           user_name: quyen1303
-          text: QUYEN2004!
+          text: QUYENK4
       - name: Set Git User
         run: |
           git config user.name "quyen1303"

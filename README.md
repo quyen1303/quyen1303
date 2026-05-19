@@ -69,7 +69,7 @@ I am Nguyễn Văn Quyền, born in 2004. I am passionate about technology, espe
 
 ![Header](img/header_.png)
 
-![QUYEN2004](gitartwork.svg)
+![QUYENK4](gitartwork.svg)
 
 ![Grid-Snake](https://raw.githubusercontent.com/quyen1303/quyenk4/main/dist/grid-snake.svg)
 
