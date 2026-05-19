@@ -1,0 +1,24 @@
+name: Make gitartwork SVG
+
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+          user_name: quyen1303
+          text: QUYEN2004!
+      - name: Set Git User
+        run: |
+          git config user.name "quyen1303"
+          git config user.email "quyennguyenvan0806@gmail.com"
+      - uses: jasineri/simple-push-action@v1
