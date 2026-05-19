@@ -71,10 +71,6 @@ I am Nguyễn Văn Quyền, born in 2004. I am passionate about technology, espe
 
 <img alt="QUYEN2K4" src="https://raw.githubusercontent.com/quyen1303/quyen1303/main/gitartwork.svg?v=2" />
 
-![Grid-Snake](https://raw.githubusercontent.com/quyen1303/quyen1303/main/dist/grid-snake.svg)
-
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/quyen1303/quyen1303/output/pacman-contribution-graph.svg">
-
 <h3 align="left"> 📚 Languages and Tools </h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-snow?logo=python&logoColor=3776AB" alt="" />
