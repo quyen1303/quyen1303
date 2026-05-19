@@ -30,11 +30,7 @@
 
 I am Nguyễn Văn Quyền, born in 2004. I am passionate about technology, especially in software development and backend system development. I enjoy learning, exploring new knowledge, and building useful projects for the community.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quyen1303/quyen1303-/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quyen1303/quyen1303-/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/quyen1303/quyen1303-/output/pacman-contribution-graph.svg" width="600">
-</picture>
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/quyen1303/quyen1303-/output/pacman-contribution-graph.svg" width="600">
 
   </div>
 </div>
@@ -77,11 +73,7 @@ I am Nguyễn Văn Quyền, born in 2004. I am passionate about technology, espe
 
 ![Grid-Snake](https://raw.githubusercontent.com/quyen1303/quyen1303-/main/dist/grid-snake.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quyen1303/quyen1303-/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quyen1303/quyen1303-/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/quyen1303/quyen1303-/output/pacman-contribution-graph.svg">
-</picture>
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/quyen1303/quyen1303-/output/pacman-contribution-graph.svg">
 
 <h3 align="left"> 📚 Languages and Tools </h3>
 <p align="left">
