@@ -30,7 +30,7 @@
 
 I am Nguyễn Văn Quyền, born in 2004. I am passionate about technology, especially in software development and backend system development. I enjoy learning, exploring new knowledge, and building useful projects for the community.
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/quyen1303/quyen1303-/output/pacman-contribution-graph.svg" width="600">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/quyen1303/quyenk4/output/pacman-contribution-graph.svg" width="600">
 
   </div>
 </div>
@@ -71,9 +71,9 @@ I am Nguyễn Văn Quyền, born in 2004. I am passionate about technology, espe
 
 ![QUYEN2004](gitartwork.svg)
 
-![Grid-Snake](https://raw.githubusercontent.com/quyen1303/quyen1303-/main/dist/grid-snake.svg)
+![Grid-Snake](https://raw.githubusercontent.com/quyen1303/quyenk4/main/dist/grid-snake.svg)
 
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/quyen1303/quyen1303-/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/quyen1303/quyenk4/output/pacman-contribution-graph.svg">
 
 <h3 align="left"> 📚 Languages and Tools </h3>
 <p align="left">
@@ -149,7 +149,7 @@ or skill level.
   <img src="http://iot.fbiego.com/api/v1/commits?user=quyen1303&country=VietNam_Private&bg_color=293035&text_color=fafafa&border_color=293035">
   </a>
 
-  <p><a href="https://github.com/quyen1303"><img src="https://github.com/quyen1303/quyen1303-/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@quyen1303's Web Nguyen Van Quyen"></a></p>
+  <p><a href="https://github.com/quyen1303"><img src="https://github.com/quyen1303/quyenk4/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@quyen1303's Web Nguyen Van Quyen"></a></p>
 
 <div align="center">
 <a href="https://github.com/quyen1303">
